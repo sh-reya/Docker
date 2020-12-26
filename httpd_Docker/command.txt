@@ -1,0 +1,16 @@
+Commands:
+
+#docker images
+#docker run -it --name web1 centos:latest
+#yum whatprovides ifconfig
+#yum install net-tools
+#yum install python36
+#yum install firefox
+#yum install httpd
+#systemctl start httpd
+FAIL
+# /usr/sbin/httpd
+# netstat -tnlp
+
+
+Port Number 80 has started. Hence, httpd has successfully been configured on the docker container.
